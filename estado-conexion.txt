@@ -1,0 +1,1 @@
+Conexión comprobada desde GitHub Actions.
